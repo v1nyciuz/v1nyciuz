@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @v1nyciuz
 - Tenho 22 anos, sou de Uberlândia/MG.
-- Faço Sistemas de informação, mas ainda nao encontrei uma área especifica para me dedicar com afinco.
-- Esse ano conheci o Salesforce e comecei a estudar, mas recentemente dei uma parada com Salesforce e atualmente comecei no front-end, gostei bastante e pretendo focar mais na área.
+- Em 2021 conheci o Salesforce, comecei a estudar e pretendo ser um dev Salesforce.
