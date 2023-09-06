@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @v1nyciuz
-- Tenho 22 anos, sou de Uberlândia/MG.
-- Em 2021 conheci o Salesforce, comecei a estudar e pretendo ser um dev Salesforce.
